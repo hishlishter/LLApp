@@ -43,3 +43,5 @@
 
 #### Модуль результатов
 <img src="https://github.com/user-attachments/assets/5afbe873-4ade-45d3-8356-e4d781ceac82" width="250" height="520">
+<img src="https://github.com/user-attachments/assets/90d1adc1-3175-4df6-baa4-88c7406bb74a" width="250" height="520">
+
