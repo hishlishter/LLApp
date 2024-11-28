@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- google_pixel_2___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="gray">#808080</color>
+
+	<color name="_bg__text_field_outlined_ek1_color">#FFBB86FC</color>
+
+	<color name="outline_color">#ffffff</color>
+	<color name="_bg__button_rounded_5_lead_true_hover_color">#6840C6</color>
+
+	<!--  google_pixel_2___3 colors  -->
+	<color name="_bg__google_pixel_2___3_ek2_color">#3eb489</color>
+	<color name="title_color">#000000</color>
+	<color name="_bg__button_rounded_5_alert_true_default_color">#EA00FF</color>
+
+	<!--  google_pixel_2___7 colors  -->
+	<color name="_bg__google_pixel_2___7_ek2_color">#3eb489</color>
+	<color name="_bg__button_rounded_5_lead_true_hover_ek1_color">#6840C6</color>
+
+	<!--  google_pixel_2___8 colors  -->
+	<color name="_bg__google_pixel_2___8_ek2_color">#3eb489</color>
+
+
+</resources>

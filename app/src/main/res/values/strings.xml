@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- google_pixel_2___1 strings -->
+	<string name="app_name">Языки</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="placeholder_text_string">Логин</string>
+	<string name="placeholder_text_ek1_string">Пароль</string>
+	<string name="text_string">Войти</string>
+	<string name="title_string">Давайте начнём!</string>
+	<string name="caption_string">Ещё нет аккаунта? Зарегистрируйтесь здесь.</string>
+
+	<!--  google_pixel_2___3 strings  -->
+    <string name="google_3">Page 1</string>
+	<string name="titlelang">Выбор языка</string>
+	<string name="titlewords">Словарь</string>
+	<string name="titletest">Тест</string>
+	<string name="titlerules">Правила</string>
+	<string name="titlemenu">Зачем вы здесь?</string>
+	<string name="text_ek1_string"> Выбранный язык - Английский </string>
+
+	<!--  google_pixel_2___7 strings  -->
+	<string name="google_7">Page 1</string>
+	<string name="title_test">Тест</string>
+	<string name="caption_ek5_string">This is ... banana.</string>
+	<string name="caption_ek1_string">This is ... taxi. ... taxi is red. </string>
+	<string name="caption_ek2_string">She ... the piano often. </string>
+	<string name="caption_ek3_string">The boys must do everything ... .</string>
+	<string name="caption_ek4_string">It ... snow last Sunday.</string>
+	<string name="text_ek2_string">an</string>
+	<string name="text_ek3_string">the</string>
+	<string name="text_ek4_string">didnt</string>
+	<string name="text_ek5_string">wont</string>
+	<string name="text_ek6_string">wasnt</string>
+	<string name="text_ek7_string">isnt</string>
+	<string name="text_ek8_string">himself</string>
+	<string name="text_ek9_string">themselves</string>
+	<string name="text_ek10_string">yourself</string>
+	<string name="text_ek11_string">yourselves</string>
+	<string name="text_ek12_string">is playing</string>
+	<string name="text_ek13_string">did play</string>
+	<string name="text_ek14_string">will play</string>
+	<string name="text_ek15_string">plays</string>
+	<string name="text_ek16_string">a-an</string>
+	<string name="text_ek17_string">-</string>
+	<string name="text_ek18_string">an-the</string>
+	<string name="text_ek19_string">a-the</string>
+	<string name="text_ek20_string">a</string>
+	<string name="text_ek21_string">-</string>
+	<string name="text_ek22_string">Отправить решение</string>
+
+	<!--  google_pixel_2___8 strings  -->
+	<string name="result">Выйти в главное меню</string>
+	<string name="title_result">Результат</string>
+	<string name="test_result">5/5 правильных Хороший результат! Вы силак!</string>
+<!--	<string name="app_name">Page 1</string>-->
+<!--	<string name="ek_img_content">ExportKit Image</string>-->
+<!--	<string name="title_string"/>-->
+<!--	<string name="text_string"> </string>-->
+<!--	<string name="caption_string">5/5 ! !</string>-->
+
+</resources>

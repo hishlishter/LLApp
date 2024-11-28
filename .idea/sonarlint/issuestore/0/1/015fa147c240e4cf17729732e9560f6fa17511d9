@@ -1,0 +1,52 @@
+
+	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®Ê’‘ıÿÿÿÿJ$86632454-29d4-4776-b7fa-634812b2b768
+¦	java:S116#"fRename this field "_bg__google_pixel_2___3_ek2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö–ìÂøÿÿÿÿJ$bf77e00b-9da1-49d1-b942-2150613752c7
+®	java:S116%"sRename this field "_bg__button_rounded_5_alert_true_default" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ƒ‚ÁJ$7cb7c6cf-ad75-4206-b752-74523a07b061
+	java:S116("SRename this field "text_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¤à‚J$67446d0b-c7c2-4894-a1db-9ec56aa49858
+°	java:S116)"uRename this field "_bg__button_rounded_5_alert_true_default_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ£¼…J$d9038695-2800-4c48-bbbf-3e12b847266b
+	java:S116*"SRename this field "text_ek2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äìáŒJ$7e15ef17-2817-4d81-9f10-d1fb587cb241
+	java:S116,"URename this field "vector_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ®qJ$b40e22a5-d4d3-4bd5-b1ac-1e05417dd607
+	java:S116-"URename this field "vector_ek2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾°ÈJ$6c3f5597-76f7-4da7-a1cc-937b66c125ad
+	java:S116."URename this field "vector_ek3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªë±êJ$4fc150a6-9e7f-440a-9198-3c1c59b945cd
+µ	java:S116/"uRename this field "_bg__button_rounded_5_alert_true_default_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰äçÒùÿÿÿÿJ$1956db2d-d040-4d00-b32a-73eb16bf5b53
+	java:S1160"SRename this field "text_ek3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ã¦íJ$18667178-5265-40b9-b1d4-a228662a5417
+µ	java:S1162"uRename this field "_bg__button_rounded_5_alert_true_default_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï£‡‚úÿÿÿÿJ$6f80cda0-3ae9-4360-a308-bb32913ec562
+	java:S1163"SRename this field "text_ek4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÇòˆJ$5aafe04d-1b96-4838-bbca-3bec6f66881b
+³
+java:S1450%"wRemove the "_bg__button_rounded_5_alert_true_default" field and declare it as a local variable in the relevant methods.(»ƒ‚ÁJ$16a3c89e-fe7a-4304-a23a-2d1ed4b99886
+µ
+java:S1450)"yRemove the "_bg__button_rounded_5_alert_true_default_1" field and declare it as a local variable in the relevant methods.(ğ£¼…J$a4e17fe2-bb0e-45d2-9bdd-048c88abd214
+º
+java:S1450/"yRemove the "_bg__button_rounded_5_alert_true_default_2" field and declare it as a local variable in the relevant methods.(‰äçÒùÿÿÿÿJ$d762006e-ab8b-42ba-8ee2-cc7831ed946c
+º
+java:S14502"yRemove the "_bg__button_rounded_5_alert_true_default_3" field and declare it as a local variable in the relevant methods.(Ï£‡‚úÿÿÿÿJ$a48916c7-e9c0-41fc-88d7-6c1eee3ea6f3
+«
+java:S1450#"jRemove the "_bg__google_pixel_2___3_ek2" field and declare it as a local variable in the relevant methods.(Ö–ìÂøÿÿÿÿJ$df792e38-94f8-428c-a870-27471afb6e97
+‘
+java:S14505"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹J$366dff02-aa22-4e30-80b6-9d424c776109
+˜
+java:S1450'"WRemove the "language" field and declare it as a local variable in the relevant methods.(ÅËĞÆıÿÿÿÿJ$e8aebd7f-da5d-4e62-9e6a-2e036518b317
+
+java:S14504"TRemove the "rules" field and declare it as a local variable in the relevant methods.(ó³ë»J$e2b626cd-604e-4307-835b-35e7fa6d0400
+
+java:S14501"SRemove the "test" field and declare it as a local variable in the relevant methods.(Àµ‚J$216f4f80-14d3-407e-a412-2a461e78e033
+
+java:S1450&"SRemove the "text" field and declare it as a local variable in the relevant methods.(·Ú€ÖJ$2b874634-b21a-47da-9d37-03a44c88faa6
+“
+java:S1450("WRemove the "text_ek1" field and declare it as a local variable in the relevant methods.(€¤à‚J$a125e61c-a4d1-4646-abc3-7b2213d49215
+“
+java:S1450*"WRemove the "text_ek2" field and declare it as a local variable in the relevant methods.(äìáŒJ$4661a6c0-a1d2-4254-ae8e-ff91353fecca
+“
+java:S14500"WRemove the "text_ek3" field and declare it as a local variable in the relevant methods.(‡Ã¦íJ$9cbe10ff-7883-4066-b329-38ff346052e4
+“
+java:S14503"WRemove the "text_ek4" field and declare it as a local variable in the relevant methods.(ŠÇòˆJ$a9db47c6-af19-43ac-b273-5f718a4f5e94
+
+java:S1450$"TRemove the "title" field and declare it as a local variable in the relevant methods.(ı«¶hJ$013ca135-e238-4165-b3f6-3a29461f21ce
+”
+java:S1450,"YRemove the "vector_ek1" field and declare it as a local variable in the relevant methods.(¨ğ®qJ$4bb4bec3-c0c4-401e-92ba-50308c662882
+•
+java:S1450-"YRemove the "vector_ek2" field and declare it as a local variable in the relevant methods.(ß¾°ÈJ$8ebf4efd-6bfb-4842-9c4d-2dd2f5fd580b
+•
+java:S1450."YRemove the "vector_ek3" field and declare it as a local variable in the relevant methods.(ªë±êJ$f894b965-77dd-44fa-bb92-1b3ae3f9f6b1
+
+java:S1450+"TRemove the "words" field and declare it as a local variable in the relevant methods.(¡²–ÉJ$61103bf7-ba0c-407a-9381-df35d9deaeda
