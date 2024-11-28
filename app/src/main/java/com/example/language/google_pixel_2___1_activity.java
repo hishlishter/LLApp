@@ -31,6 +31,7 @@ public class google_pixel_2___1_activity extends Activity {
 
 	
 	private View _bg__google_pixel_2___1_ek2;
+
 	private View _bg__text_field_outlined_ek1;
 	private View outline;
 	private View _bg__account_ek1;

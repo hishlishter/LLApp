@@ -1,42 +1,44 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÎ™ëûÿÿÿÿJ$91fdfac2-0269-4340-8d14-7eb82d76654b
-¡	java:S116!"fRename this field "_bg__google_pixel_2___1_ek2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°¢J$b6aeea6b-d106-4465-87c4-fd55ddc88d7c
-¢	java:S116""gRename this field "_bg__text_field_outlined_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ÃJ$bb24dc65-5ba6-46a1-a384-ce099b8210e2
-–	java:S116$"[Rename this field "_bg__account_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºî¢ßJ$a09b4fdd-0bc8-4b49-b844-611d9c4eac45
-›	java:S116&"[Rename this field "placeholder_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Â™ùÿÿÿÿJ$d3d4dd30-0fc6-421e-b540-06301fe11b3b
-§	java:S116'"gRename this field "_bg__text_field_outlined_ek3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûóã€ùÿÿÿÿJ$7c3e78f1-d5fa-4868-9882-c5808fe0ac8a
-‘	java:S116("VRename this field "outline_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ğìÒJ$22bc038d-ed04-4c0e-a61f-7d3aa1711bef
-š	java:S116)"_Rename this field "placeholder_text_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ§ü«J$9319ac2f-5e7b-4d93-aea9-941a80452167
-°	java:S116*"pRename this field "_bg__button_rounded_5_lead_true_hover" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹˜şÿÿÿÿJ$4bf2174d-0858-4975-bac4-c989ecf42cdc
+k
+java:S1604G"(Make this anonymous inner class a lambda(Ñ¹ï¹8Ä…¼¡·2J$d5c0c2ec-9be3-4dc6-9959-0bb8bdd6ae5f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÎ™ëûÿÿÿÿJ$e214f114-5a47-4cd7-befb-274b44efc4a8
+¡	java:S116!"fRename this field "_bg__google_pixel_2___1_ek2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°¢J$f9d1dcfc-12d0-4761-a057-d037bd18f3f5
+¢	java:S116#"gRename this field "_bg__text_field_outlined_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ÃJ$b08f32e3-3517-49b1-94e4-c83cd63b4c51
+–	java:S116%"[Rename this field "_bg__account_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºî¢ßJ$07caf2d5-aa52-49c7-908a-088afd3c4f8b
+›	java:S116'"[Rename this field "placeholder_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Â™ùÿÿÿÿJ$b1f072eb-f297-4309-9eb0-914b31b0f7b3
+§	java:S116("gRename this field "_bg__text_field_outlined_ek3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûóã€ùÿÿÿÿJ$13802c5e-e8e2-497a-90f6-90ca39d721c1
+‘	java:S116)"VRename this field "outline_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ğìÒJ$17cbaba6-aa1a-400a-8dbc-0d8d52343abc
+š	java:S116*"_Rename this field "placeholder_text_ek1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ§ü«J$ebc57002-a69b-4a96-8448-c2d02a046412
+°	java:S116+"pRename this field "_bg__button_rounded_5_lead_true_hover" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹˜şÿÿÿÿJ$cb4584e9-252b-49ac-9e8d-224d28c41dfc
 ›
-java:S1450$"_Remove the "_bg__account_ek1" field and declare it as a local variable in the relevant methods.(ºî¢ßJ$615dcf90-8eea-4aeb-9dad-12019a9ba32c
+java:S1450%"_Remove the "_bg__account_ek1" field and declare it as a local variable in the relevant methods.(ºî¢ßJ$2a23ee7f-3431-4d61-b912-e3a21dac4202
 µ
-java:S1450*"tRemove the "_bg__button_rounded_5_lead_true_hover" field and declare it as a local variable in the relevant methods.(Ö¹˜şÿÿÿÿJ$40b03cb2-8018-4843-8cb2-9d9e35065fcb
+java:S1450+"tRemove the "_bg__button_rounded_5_lead_true_hover" field and declare it as a local variable in the relevant methods.(Ö¹˜şÿÿÿÿJ$891e9fbc-e01d-4537-b1cf-0a23dd081ced
 ¦
-java:S1450!"jRemove the "_bg__google_pixel_2___1_ek2" field and declare it as a local variable in the relevant methods.(®°¢J$c61c59e6-f92d-4e49-a25e-eeafdd387acf
+java:S1450!"jRemove the "_bg__google_pixel_2___1_ek2" field and declare it as a local variable in the relevant methods.(®°¢J$012fba68-bd10-42bd-acd6-3d49ff0b4d95
 §
-java:S1450""kRemove the "_bg__text_field_outlined_ek1" field and declare it as a local variable in the relevant methods.(‘­ÃJ$c4249349-8cca-49f4-bd61-b5cfbd5558ee
+java:S1450#"kRemove the "_bg__text_field_outlined_ek1" field and declare it as a local variable in the relevant methods.(‘­ÃJ$292b01dc-cac5-4f39-8133-0b03403da728
 ¬
-java:S1450'"kRemove the "_bg__text_field_outlined_ek3" field and declare it as a local variable in the relevant methods.(ûóã€ùÿÿÿÿJ$a3b2add6-b423-4cad-b9a7-d752864d4339
+java:S1450("kRemove the "_bg__text_field_outlined_ek3" field and declare it as a local variable in the relevant methods.(ûóã€ùÿÿÿÿJ$b9298f83-1d79-47fd-8957-e5ae498b021b
 —
-java:S1450-"VRemove the "caption" field and declare it as a local variable in the relevant methods.(‰²÷¨üÿÿÿÿJ$e7229624-0020-4857-a562-8170d0803511
+java:S1450."VRemove the "caption" field and declare it as a local variable in the relevant methods.(‰²÷¨üÿÿÿÿJ$6b52b3de-97dd-4df2-9804-6ecf92638833
 —
-java:S1450#"VRemove the "outline" field and declare it as a local variable in the relevant methods.(â¹í¶úÿÿÿÿJ$4c88910a-b6cb-4d6e-b05f-f95a511aa8bd
+java:S1450$"VRemove the "outline" field and declare it as a local variable in the relevant methods.(â¹í¶úÿÿÿÿJ$7620b130-b2bd-4eb5-b765-b2f73c3b2854
 –
-java:S1450("ZRemove the "outline_ek1" field and declare it as a local variable in the relevant methods.(›ğìÒJ$7b2118a9-75a2-4d47-90aa-8a6609949946
+java:S1450)"ZRemove the "outline_ek1" field and declare it as a local variable in the relevant methods.(›ğìÒJ$5994f1be-b11d-4f69-aa89-a933b936fe79
  
-java:S1450&"_Remove the "placeholder_text" field and declare it as a local variable in the relevant methods.(¦Â™ùÿÿÿÿJ$42d27c67-2a68-4490-b2c5-3de18f4751b5
+java:S1450'"_Remove the "placeholder_text" field and declare it as a local variable in the relevant methods.(¦Â™ùÿÿÿÿJ$4c721109-c1ed-4411-a5bd-f581afa45409
 Ÿ
-java:S1450)"cRemove the "placeholder_text_ek1" field and declare it as a local variable in the relevant methods.(œ§ü«J$1fec8a58-1fcc-432e-a589-0d2443a4d643
+java:S1450*"cRemove the "placeholder_text_ek1" field and declare it as a local variable in the relevant methods.(œ§ü«J$a6c69b2c-a26b-4d8f-b506-cc4a85e285cf
 
-java:S1450+"SRemove the "text" field and declare it as a local variable in the relevant methods.(·Ú€ÖJ$c218ab62-5e53-47b7-b128-542c330b9392
+java:S1450,"SRemove the "text" field and declare it as a local variable in the relevant methods.(·Ú€ÖJ$72c7a136-d8c7-4c80-976b-85facd660615
 
-java:S1450,"TRemove the "title" field and declare it as a local variable in the relevant methods.(ı«¶hJ$c1ba90d8-22d7-492c-bb08-ec3effb51ca5
+java:S1450-"TRemove the "title" field and declare it as a local variable in the relevant methods.(ı«¶hJ$a4112c9a-0314-4d7c-a607-1c9d4272dacf
 ‘
-java:S1450%"URemove the "vector" field and declare it as a local variable in the relevant methods.(®ƒûïJ$72910b6a-3991-4b68-859f-14d09282cf3e
+java:S1450&"URemove the "vector" field and declare it as a local variable in the relevant methods.(®ƒûïJ$d1544aa6-3e48-4f56-905b-128f802b046f
 v
-java:S1118T":Add a private constructor to hide the implicit public one.(Íš‘”J$8cc01cce-dc6e-4e98-8f01-2357df7f5f03
+java:S1118U":Add a private constructor to hide the implicit public one.(Íš‘”J$464caa36-4da2-4d87-99dc-f4b87fca61a6
 e
-java:S1068/")Remove this unused "login" private field.(ÒûìÌJ$59a12192-4384-4417-b726-86783421019d
+java:S10680")Remove this unused "login" private field.(ÒûìÌJ$0350c435-1d24-4cfe-a87c-aed606b59452
 m
-java:S10680",Remove this unused "password" private field.(œãë­úÿÿÿÿJ$ba89bcf7-b740-430f-81cc-08ae2de7d912
+java:S10681",Remove this unused "password" private field.(œãë­úÿÿÿÿJ$dd77dbd1-a8a7-46dd-84eb-5ccfb8cbdad7
